@@ -1,0 +1,40 @@
+I0.0;0;Acil Stop Ok;Acil Stop Ok
+I0.1;0;Kapi Ok;Kapi Ok
+I0.2;0;I0.2;I0.2
+I0.3;0;I0.3;I0.3
+I0.4;0;Start Butonu Aux;Start Butonu Aux
+I0.5;0;Reset Butonu Aux;Reset Butonu Aux
+I0.6;0;Start Butonu Office;Start Butonu Office
+I0.7;0;Reset Butonu Office;Reset Butonu Office
+I1.0;0;Nok Cekmece PV Aux;Nok Cekmece PV Aux
+I1.1;0;Nok Cekmece PV Office;Nok Cekmece PV Office
+I1.2;0;Govde PV Aux;Govde PV Aux
+I1.3;0;Govde PV Office;Govde PV Office
+I1.4;0;Kapak PV Aux;Kapak PV Aux
+I1.5;0;Kapak PV Office;Kapak PV Office
+I2.0;0;Kilit Pistonu Ileride Aux;Kilit Pistonu Ileride Aux
+I2.1;0;Kilit Pistonu Geride Aux;Kilit Pistonu Geride Aux
+I2.2;0;Kilit Pistonu Ileride Office;Kilit Pistonu Ileride Office
+I2.3;0;Kilit Pistonu Geride Office;Kilit Pistonu Geride Office
+I2.4;0;Fikstur Baslangic Poz Aux;Fikstur Baslangic Poz Aux
+I2.5;0;Fikstur Baslangic Poz Office;Fikstur Baslangic Poz Office
+I2.6;0;Fikstur Skc Poz Aux;Fikstur Skc Poz Aux
+I2.7;0;Fikstur Skc Poz Office;Fikstur Skc Poz Office
+Q0.0;1;Aydinlatma;Aydinlatma
+Q0.1;1;Kirmizi Tepe Lamb;Kirmizi Tepe Lamb
+Q0.2;1;Buzzer;Buzzer
+Q0.3;1;Deiyonizer Start;Deiyonizer Start
+Q0.4;1;Vida Siralayici Start;Vida Siralayici Start
+Q0.5;1;Q0.5;Q0.5
+Q0.6;1;Q0.6;Q0.6
+Q0.7;1;Q0.7;Q0.7
+Q1.0;1;Q1.0;Q1.0
+Q1.1;1;Q1.1;Q1.1
+Q2.0;1;Kilit Pistonu Ileri Aux;Kilit Pistonu Ileri Aux
+Q2.1;1;Kilit Pistonu Geri Aux;Kilit Pistonu Geri Aux
+Q2.2;1;Kilit Pistonu Ileri Office;Kilit Pistonu Ileri Office
+Q2.3;1;Kilit Pistonu Geri Office;Kilit Pistonu Geri Office
+Q2.4;1;Q2.4;Q2.4
+Q2.5;1;Q2.5;Q2.5
+Q2.6;1;Q2.6;Q2.6
+Q2.7;1;Q2.7;Q2.7

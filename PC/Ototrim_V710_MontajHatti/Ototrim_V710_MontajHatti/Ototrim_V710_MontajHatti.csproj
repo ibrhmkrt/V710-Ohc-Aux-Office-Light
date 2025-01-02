@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3B4EC159-8410-4631-81A8-CDD0A542E4ED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ototrim_V710_MontajHatti</RootNamespace>
+    <AssemblyName>Ototrim_V710_MontajHatti</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ototrim.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="S7.Net">
+      <HintPath>..\..\Sanver_FrameWorkV6\Sanver_FrameWorkV6\bin\Debug\S7.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Sanver_FrameWorkV6, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DLL\Sanver_FrameWorkV6\Sanver_FrameWorkV6\bin\Debug\Sanver_FrameWorkV6.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Frm_Makine1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Makine1.Designer.cs">
+      <DependentUpon>Frm_Makine1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\02_FotografGoster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controller\02_FotografGoster.Designer.cs">
+      <DependentUpon>02_FotografGoster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="test.Designer.cs">
+      <DependentUpon>test.cs</DependentUpon>
+    </Compile>
+    <Content Include="ototrim.ico" />
+    <Content Include="Test\Deneme.txt" />
+    <Compile Include="Controller\Fotograf.cs" />
+    <Compile Include="Controller\Helper.cs" />
+    <Compile Include="Frm_Makine2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Makine2.Designer.cs">
+      <DependentUpon>Frm_Makine2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Makine3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Makine3.Designer.cs">
+      <DependentUpon>Frm_Makine3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Makine4_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Makine4_2.Designer.cs">
+      <DependentUpon>Frm_Makine4_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Makine4_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Makine4_1.Designer.cs">
+      <DependentUpon>Frm_Makine4_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Makine4_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Makine4_3.Designer.cs">
+      <DependentUpon>Frm_Makine4_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Makine5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Makine5.Designer.cs">
+      <DependentUpon>Frm_Makine5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\BakimKontrol.cs" />
+    <Compile Include="Controller\Webservis.cs" />
+    <Compile Include="Controller\PLC_Haberlesme.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proxy\UretimTools.cs" />
+    <Compile Include="Controller\FotografGoruntule.cs" />
+    <Compile Include="Model\Uretim.cs" />
+    <Compile Include="Controller\Veritabani.cs" />
+    <EmbeddedResource Include="Frm_Makine1.resx">
+      <DependentUpon>Frm_Makine1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controller\02_FotografGoster.resx">
+      <DependentUpon>02_FotografGoster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Makine2.resx">
+      <DependentUpon>Frm_Makine2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Makine3.resx">
+      <DependentUpon>Frm_Makine3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Makine4_1.resx">
+      <DependentUpon>Frm_Makine4_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Makine4_2.resx">
+      <DependentUpon>Frm_Makine4_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Makine4_3.resx">
+      <DependentUpon>Frm_Makine4_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Makine5.resx">
+      <DependentUpon>Frm_Makine5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test.resx">
+      <DependentUpon>test.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MaysanMando.ico" />
+    <None Include="Resources\ototrim-logo.jpg" />
+    <None Include="Resources\Sanver_Logo_Yazi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

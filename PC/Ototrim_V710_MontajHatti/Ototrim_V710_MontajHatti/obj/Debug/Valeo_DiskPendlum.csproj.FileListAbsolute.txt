@@ -1,0 +1,46 @@
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\BW_SCR_Op60\BW_SCR_Op60\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\BW_SCR_Op60\BW_SCR_Op60\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\BW_SCR_Op60\BW_SCR_Op60\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\BW_SCR_Op60\BW_SCR_Op60\obj\Debug\Valeo_DiskPendlum._01_AnaSayfa.resources
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\BW_SCR_Op60\BW_SCR_Op60\obj\Debug\Valeo_DiskPendlum.FotogragGoster.resources
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\BW_SCR_Op60\BW_SCR_Op60\obj\Debug\Valeo_DiskPendlum.csproj.GenerateResource.Cache
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\BW_SCR_Op60\BW_SCR_Op60\bin\Debug\Valeo_DiskPendlum.exe.config
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\BW_SCR_Op60\BW_SCR_Op60\bin\Debug\Valeo_DiskPendlum.exe
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\BW_SCR_Op60\BW_SCR_Op60\bin\Debug\Valeo_DiskPendlum.pdb
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\BW_SCR_Op60\BW_SCR_Op60\obj\Debug\Valeo_DiskPendlum.Properties.Resources.resources
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\BW_SCR_Op60\BW_SCR_Op60\obj\Debug\Valeo_DiskPendlum.exe
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\BW_SCR_Op60\BW_SCR_Op60\obj\Debug\Valeo_DiskPendlum.pdb
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\bin\Debug\Valeo_DiskPendlum.exe.config
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\bin\Debug\Valeo_DiskPendlum.exe
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\bin\Debug\Valeo_DiskPendlum.pdb
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum._01_AnaSayfa.resources
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.Properties.Resources.resources
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.csproj.GenerateResource.Cache
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.exe
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211020\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.pdb
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211021\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\bin\Debug\Valeo_DiskPendlum.exe.config
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211021\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.exe
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211021\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.pdb
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211021\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\bin\Debug\Valeo_DiskPendlum.exe
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211021\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\bin\Debug\Valeo_DiskPendlum.pdb
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211021\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211021\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211021\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum._01_AnaSayfa.resources
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211021\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.Properties.Resources.resources
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211021\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.csproj.GenerateResource.Cache
+D:\PROJE\2021\VALEO\DiskPendlum\PC\DiskPendlum\20211021\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.csprojResolveAssemblyReference.cache
+D:\PROJE\2021\ORAU\210807 OTOMATIK SUSTURUCU TOPLAMA MAKINESI\PC\20211223\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\bin\Debug\Valeo_DiskPendlum.exe.config
+D:\PROJE\2021\ORAU\210807 OTOMATIK SUSTURUCU TOPLAMA MAKINESI\PC\20211223\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\bin\Debug\Valeo_DiskPendlum.exe
+D:\PROJE\2021\ORAU\210807 OTOMATIK SUSTURUCU TOPLAMA MAKINESI\PC\20211223\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\bin\Debug\Valeo_DiskPendlum.pdb
+D:\PROJE\2021\ORAU\210807 OTOMATIK SUSTURUCU TOPLAMA MAKINESI\PC\20211223\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2021\ORAU\210807 OTOMATIK SUSTURUCU TOPLAMA MAKINESI\PC\20211223\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2021\ORAU\210807 OTOMATIK SUSTURUCU TOPLAMA MAKINESI\PC\20211223\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.csproj.AssemblyReference.cache
+D:\PROJE\2021\ORAU\210807 OTOMATIK SUSTURUCU TOPLAMA MAKINESI\PC\20211223\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\ORAU_OtomatikSusturucuToplama._01_AnaSayfa.resources
+D:\PROJE\2021\ORAU\210807 OTOMATIK SUSTURUCU TOPLAMA MAKINESI\PC\20211223\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.Properties.Resources.resources
+D:\PROJE\2021\ORAU\210807 OTOMATIK SUSTURUCU TOPLAMA MAKINESI\PC\20211223\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.csproj.GenerateResource.cache
+D:\PROJE\2021\ORAU\210807 OTOMATIK SUSTURUCU TOPLAMA MAKINESI\PC\20211223\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.csproj.CoreCompileInputs.cache
+D:\PROJE\2021\ORAU\210807 OTOMATIK SUSTURUCU TOPLAMA MAKINESI\PC\20211223\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.csproj.CopyComplete
+D:\PROJE\2021\ORAU\210807 OTOMATIK SUSTURUCU TOPLAMA MAKINESI\PC\20211223\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.exe
+D:\PROJE\2021\ORAU\210807 OTOMATIK SUSTURUCU TOPLAMA MAKINESI\PC\20211223\PROGRAM\Valeo_DiskPendlum\Valeo_DiskPendlum\obj\Debug\Valeo_DiskPendlum.pdb

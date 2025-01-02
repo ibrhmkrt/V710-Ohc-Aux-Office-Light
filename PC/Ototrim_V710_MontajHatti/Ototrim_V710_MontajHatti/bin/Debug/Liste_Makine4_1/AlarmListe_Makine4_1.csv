@@ -1,0 +1,80 @@
+DB2.DBX0.0;Genel Alarm;True;Acil Stop Alarm;Acil Stop Alarm
+DB2.DBX0.1;Genel Alarm;True;Kapi Alarm;Kapi Alarm
+DB2.DBX0.2;Genel Alarm;True;Alarmlar3;Alarmlar3
+DB2.DBX0.3;Genel Alarm;True;Alarmlar4;Alarmlar4
+DB2.DBX0.4;Genel Alarm;True;Alarmlar5;Alarmlar5
+DB2.DBX0.5;Genel Alarm;True;Alarmlar6;Alarmlar6
+DB2.DBX0.6;Genel Alarm;True;Alarmlar7;Alarmlar7
+DB2.DBX0.7;Genel Alarm;True;Alarmlar8;Alarmlar8
+DB2.DBX1.0;Genel Alarm;True;Kilit Pistonu Ileri Hata Aux;Kilit Pistonu Ileri Hata Aux
+DB2.DBX1.1;Genel Alarm;True;Kilit Pistonu Geri Hata Aux;Kilit Pistonu Geri Hata Aux
+DB2.DBX1.2;Genel Alarm;True;Kilit Pistonu Oper Hata Aux;Kilit Pistonu Oper Hata Aux
+DB2.DBX1.3;Genel Alarm;True;Kilit Pistonu Sensor Hata Aux;Kilit Pistonu Sensor Hata Aux
+DB2.DBX1.4;Genel Alarm;True;Kilit Pistonu Ileri Hata Office;Kilit Pistonu Ileri Hata Office
+DB2.DBX1.5;Genel Alarm;True;Kilit Pistonu Geri Hata Office;Kilit Pistonu Geri Hata Office
+DB2.DBX1.6;Genel Alarm;True;Kilit Pistonu Oper Hata Office;Kilit Pistonu Oper Hata Office
+DB2.DBX1.7;Genel Alarm;True;Kilit Pistonu Sensor Hata Office;Kilit Pistonu Sensor Hata Office
+DB2.DBX2.0;Genel Alarm;True;Alarmlar17;Alarmlar17
+DB2.DBX2.1;Genel Alarm;True;Alarmlar18;Alarmlar18
+DB2.DBX2.2;Genel Alarm;True;Alarmlar19;Alarmlar19
+DB2.DBX2.3;Genel Alarm;True;Alarmlar20;Alarmlar20
+DB2.DBX2.4;Genel Alarm;True;Alarmlar21;Alarmlar21
+DB2.DBX2.5;Genel Alarm;True;Alarmlar22;Alarmlar22
+DB2.DBX2.6;Genel Alarm;True;Alarmlar23;Alarmlar23
+DB2.DBX2.7;Genel Alarm;True;Alarmlar24;Alarmlar24
+DB2.DBX3.0;Genel Alarm;True;Alarmlar25;Alarmlar25
+DB2.DBX3.1;Genel Alarm;True;Alarmlar26;Alarmlar26
+DB2.DBX3.2;Genel Alarm;True;Alarmlar27;Alarmlar27
+DB2.DBX3.3;Genel Alarm;True;Alarmlar28;Alarmlar28
+DB2.DBX3.4;Genel Alarm;True;Alarmlar29;Alarmlar29
+DB2.DBX3.5;Genel Alarm;True;Alarmlar30;Alarmlar30
+DB2.DBX3.6;Genel Alarm;True;Alarmlar31;Alarmlar31
+DB2.DBX3.7;Genel Alarm;True;Alarmlar32;Alarmlar32
+DB2.DBX4.0;Genel Alarm;True;Alarmlar33;Alarmlar33
+DB2.DBX4.1;Genel Alarm;True;Alarmlar34;Alarmlar34
+DB2.DBX4.2;Genel Alarm;True;Alarmlar35;Alarmlar35
+DB2.DBX4.3;Genel Alarm;True;Alarmlar36;Alarmlar36
+DB2.DBX4.4;Genel Alarm;True;Alarmlar37;Alarmlar37
+DB2.DBX4.5;Genel Alarm;True;Alarmlar38;Alarmlar38
+DB2.DBX4.6;Genel Alarm;True;Alarmlar39;Alarmlar39
+DB2.DBX4.7;Genel Alarm;True;Alarmlar40;Alarmlar40
+DB2.DBX5.0;Genel Alarm;True;Alarmlar41;Alarmlar41
+DB2.DBX5.1;Genel Alarm;True;Alarmlar42;Alarmlar42
+DB2.DBX5.2;Genel Alarm;True;Alarmlar43;Alarmlar43
+DB2.DBX5.3;Genel Alarm;True;Alarmlar44;Alarmlar44
+DB2.DBX5.4;Genel Alarm;True;Alarmlar45;Alarmlar45
+DB2.DBX5.5;Genel Alarm;True;Alarmlar46;Alarmlar46
+DB2.DBX5.6;Genel Alarm;True;Alarmlar47;Alarmlar47
+DB2.DBX5.7;Genel Alarm;True;Alarmlar48;Alarmlar48
+DB2.DBX6.0;Genel Alarm;True;Alarmlar49;Alarmlar49
+DB2.DBX6.1;Genel Alarm;True;Alarmlar50;Alarmlar50
+DB2.DBX6.2;Genel Alarm;True;Alarmlar51;Alarmlar51
+DB2.DBX6.3;Genel Alarm;True;Alarmlar52;Alarmlar52
+DB2.DBX6.4;Genel Alarm;True;Alarmlar53;Alarmlar53
+DB2.DBX6.5;Genel Alarm;True;Alarmlar54;Alarmlar54
+DB2.DBX6.6;Genel Alarm;True;Alarmlar55;Alarmlar55
+DB2.DBX6.7;Genel Alarm;True;Alarmlar56;Alarmlar56
+DB2.DBX7.0;Genel Alarm;True;Alarmlar57;Alarmlar57
+DB2.DBX7.1;Genel Alarm;True;Alarmlar58;Alarmlar58
+DB2.DBX7.2;Genel Alarm;True;Alarmlar59;Alarmlar59
+DB2.DBX7.3;Genel Alarm;True;Alarmlar60;Alarmlar60
+DB2.DBX7.4;Genel Alarm;True;Alarmlar61;Alarmlar61
+DB2.DBX7.5;Genel Alarm;True;Alarmlar62;Alarmlar62
+DB2.DBX7.6;Genel Alarm;True;Alarmlar63;Alarmlar63
+DB2.DBX7.7;Genel Alarm;True;Alarmlar64;Alarmlar64
+DB2.DBX8.0;Genel Alarm;True;Alarmlar65;Alarmlar65
+DB2.DBX8.1;Genel Alarm;True;Alarmlar66;Alarmlar66
+DB2.DBX8.2;Genel Alarm;True;Alarmlar67;Alarmlar67
+DB2.DBX8.3;Genel Alarm;True;Alarmlar68;Alarmlar68
+DB2.DBX8.4;Genel Alarm;True;Alarmlar69;Alarmlar69
+DB2.DBX8.5;Genel Alarm;True;Alarmlar70;Alarmlar70
+DB2.DBX8.6;Genel Alarm;True;Alarmlar71;Alarmlar71
+DB2.DBX8.7;Genel Alarm;True;Alarmlar72;Alarmlar72
+DB2.DBX9.0;Genel Alarm;True;Alarmlar73;Alarmlar73
+DB2.DBX9.1;Genel Alarm;True;Alarmlar74;Alarmlar74
+DB2.DBX9.2;Genel Alarm;True;Alarmlar75;Alarmlar75
+DB2.DBX9.3;Genel Alarm;True;Alarmlar76;Alarmlar76
+DB2.DBX9.4;Genel Alarm;True;Alarmlar77;Alarmlar77
+DB2.DBX9.5;Genel Alarm;True;Alarmlar78;Alarmlar78
+DB2.DBX9.6;Genel Alarm;True;Alarmlar79;Alarmlar79
+DB2.DBX9.7;Genel Alarm;True;Alarmlar80;Alarmlar80

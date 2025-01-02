@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ototrim_V710_MontajHatti", "Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti.csproj", "{3B4EC159-8410-4631-81A8-CDD0A542E4ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B4EC159-8410-4631-81A8-CDD0A542E4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4EC159-8410-4631-81A8-CDD0A542E4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4EC159-8410-4631-81A8-CDD0A542E4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4EC159-8410-4631-81A8-CDD0A542E4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B19114B6-D410-4D50-879D-D4DFD51132BE}
+	EndGlobalSection
+EndGlobal

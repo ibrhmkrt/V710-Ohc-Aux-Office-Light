@@ -1,0 +1,93 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ototrim_V710_MontajHatti
+{
+    class Deneme
+    {
+        //private void btn_YeniIsEmri_Click(object sender, EventArgs e)
+        //{
+        //    Proxy.UretimEmirResponse res = Ototrim.Get_YeniUretimEmir(hatNo);
+
+        //    if (res.IsSucces)
+        //    {
+        //        txt_IsEmriNo.Text = res.UretimEmirNo;
+        //    }
+        //    else
+        //    {
+        //        lbl_WebservisMesaj.Text = res.Mesaj;
+        //    }
+        //}
+
+        //private void btn_Basla1_Click(object sender, EventArgs e)
+        //{
+        //    Proxy.Set_UretimEmirResponse res = Ototrim.Set_UretimEmir(txt_IsEmriNo.Text, 1, Proxy.UretimEmirIslemTipleri.BASLA, false, false, 0);
+
+        //    if (res.IsSucces)
+        //    {
+        //        //MessageBox.Show("Step 1 Başladı");
+
+        //        lbl_WebservisMesaj.Text = "Step 1 Başladı";
+        //    }
+        //    else
+        //    {
+        //        lbl_WebservisMesaj.Text = res.Mesaj;
+        //    }
+        //}
+
+        //private void btn_Bitir1_Click(object sender, EventArgs e)
+        //{
+
+        //    //Hatali Kayit
+        //    //Hatali ve HataKodu veriyoruz
+
+        //    Proxy.Set_UretimEmirResponse res = Ototrim.Set_UretimEmir(txt_IsEmriNo.Text, 1, Proxy.UretimEmirIslemTipleri.BITIR, false, true, 100);
+
+        //    if (res.IsSucces)
+        //    {
+        //        //MessageBox.Show("Step 1 Başladı");
+
+        //        lbl_WebservisMesaj.Text = "Step 1 Bitti";
+        //    }
+        //    else
+        //    {
+        //        lbl_WebservisMesaj.Text = res.Mesaj;
+        //    }
+        //}
+
+        //private void btn_Basla2_Click(object sender, EventArgs e)
+        //{
+        //    Proxy.Set_UretimEmirResponse res = Ototrim.Set_UretimEmir(txt_IsEmriNo.Text, 2, Proxy.UretimEmirIslemTipleri.BASLA, false, false, 0);
+
+        //    if (res.IsSucces)
+        //    {
+        //        //MessageBox.Show("Step 1 Başladı");
+
+        //        lbl_WebservisMesaj.Text = "Step 2 Başladı";
+        //    }
+        //    else
+        //    {
+        //        lbl_WebservisMesaj.Text = res.Mesaj;
+        //    }
+        //}
+
+        //private void btn_Bitir2_Click(object sender, EventArgs e)
+        //{
+        //    Proxy.Set_UretimEmirResponse res = Ototrim.Set_UretimEmir(txt_IsEmriNo.Text, 2, Proxy.UretimEmirIslemTipleri.BITIR, true, false, 0);
+
+        //    if (res.IsSucces)
+        //    {
+        //        //MessageBox.Show("Step 1 Başladı");
+
+        //        lbl_WebservisMesaj.Text = "Step 2 Bitti";
+        //    }
+        //    else
+        //    {
+        //        lbl_WebservisMesaj.Text = res.Mesaj;
+        //    }
+        //}
+    }
+}

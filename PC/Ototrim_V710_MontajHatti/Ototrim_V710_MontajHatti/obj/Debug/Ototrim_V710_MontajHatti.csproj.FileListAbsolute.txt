@@ -1,0 +1,648 @@
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\220310 Ototrim V710 Montaj Hattı\01_Ototrim_AuxStopMontaj_OfficeMontaj\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\220310 Ototrim V710 Montaj Hattı\01_Ototrim_AuxStopMontaj_OfficeMontaj\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\220310 Ototrim V710 Montaj Hattı\01_Ototrim_AuxStopMontaj_OfficeMontaj\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\220310 Ototrim V710 Montaj Hattı\01_Ototrim_AuxStopMontaj_OfficeMontaj\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\220310 Ototrim V710 Montaj Hattı\01_Ototrim_AuxStopMontaj_OfficeMontaj\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\220310 Ototrim V710 Montaj Hattı\01_Ototrim_AuxStopMontaj_OfficeMontaj\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\220310 Ototrim V710 Montaj Hattı\01_Ototrim_AuxStopMontaj_OfficeMontaj\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\220310 Ototrim V710 Montaj Hattı\01_Ototrim_AuxStopMontaj_OfficeMontaj\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\220310 Ototrim V710 Montaj Hattı\01_Ototrim_AuxStopMontaj_OfficeMontaj\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\220310 Ototrim V710 Montaj Hattı\01_Ototrim_AuxStopMontaj_OfficeMontaj\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\220310 Ototrim V710 Montaj Hattı\01_Ototrim_AuxStopMontaj_OfficeMontaj\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\220310 Ototrim V710 Montaj Hattı\01_Ototrim_AuxStopMontaj_OfficeMontaj\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\220310 Ototrim V710 Montaj Hattı\01_Ototrim_AuxStopMontaj_OfficeMontaj\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\220310 Ototrim V710 Montaj Hattı\01_Ototrim_AuxStopMontaj_OfficeMontaj\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\220310 Ototrim V710 Montaj Hattı\01_Ototrim_AuxStopMontaj_OfficeMontaj\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220706_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_Step1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220802\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220803\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csprojResolveAssemblyReference.cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csprojResolveAssemblyReference.cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220817\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220818\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csprojResolveAssemblyReference.cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220819\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220822\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20220823_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221022\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221022\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221022\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221025\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csprojResolveAssemblyReference.cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221104_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csprojResolveAssemblyReference.cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221111\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221111\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221111\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csprojResolveAssemblyReference.cache
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221114\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221115\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221115\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221115\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221116\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221116\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221116\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csprojResolveAssemblyReference.cache
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\golcukbarkod\Desktop\SonPcProgram\20221117\20221117\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+C:\Users\golcukbarkod\Desktop\20221118\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csprojResolveAssemblyReference.cache
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\golcukbarkod\Desktop\20221121\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\THINKPAD\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\golcukbarkod\Desktop\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\golcukbarkod\Desktop\20221122\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\golcukbarkod\Desktop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221123\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221123_2\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221123_2\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221123_2\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221128\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221128\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20221128\PC\20221109_2\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230105\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230113\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csprojResolveAssemblyReference.cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.CoreCompileInputs.cache
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.CopyComplete
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+D:\PROJE\2022\OTOTRIM\220310 Ototrim V710 Montaj Hattı\PC\20230122\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230522_2\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csprojResolveAssemblyReference.cache
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csprojResolveAssemblyReference.cache
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230525\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\SANVER_PC-5\Desktop\Ototrim\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230526\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csprojResolveAssemblyReference.cache
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20230922\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231103\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231103\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231103\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231206_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231206_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231206_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csprojResolveAssemblyReference.cache
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231207_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csprojResolveAssemblyReference.cache
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231208_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe.config
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.exe
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Ototrim_V710_MontajHatti.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.dll
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\bin\Debug\Sanver_FrameWorkV6.pdb
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csprojResolveAssemblyReference.cache
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine1.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti._02_FotografGoster.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine2.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine3.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_1.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_2.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine4_3.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Frm_Makine5.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.Properties.Resources.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.test.resources
+C:\Users\SANVER_PC-5\Desktop\İbrahimKurt\220201_Ototrim_OHC_AuxStop\20231211_Rev\PC\PROGRAM\Ototrim_V710_MontajHatti\Ototrim_V710_MontajHatti\obj\Debug\Ototrim_V710_MontajHatti.csproj.GenerateResource.Cache
